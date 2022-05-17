@@ -1,0 +1,19 @@
+{
+  "name": "barbershop",
+  "version": "1.0.0",
+  "description": "barbershop Borodinski by HTML Academy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lidiya-prog/Barbershop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lidiya-prog/Barbershop/issues"
+  },
+  "homepage": "https://github.com/Lidiya-prog/Barbershop#readme"
+}
